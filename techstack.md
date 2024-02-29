@@ -3,21 +3,21 @@
 ## Tech Stack
 ramzimalhas/chatbot-ui is built on the following main stack:
 
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [ESLint](http://eslint.org/) – Code Review
-- [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- [i18next](https://www.i18next.com/) – Translation Service
 - [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [ESLint](http://eslint.org/) – Code Review
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Prettier](https://prettier.io/) – Code Review
 - [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [OpenAI](https://openai.com/) – Large Language Models
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -27,21 +27,21 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ramzimalhas/chatbot-ui is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ramzimalhas/chatbot-ui](https://github.com/ramzimalhas/chatbot-ui)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|33<br/>Tools used|01/23/24 <br/>Report generated|
+|33<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
